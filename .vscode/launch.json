@@ -19,7 +19,7 @@
             "MIMode": "gdb",
 
             // gdb.exe的路径
-            "miDebuggerPath": "C:/Program Files/mingw64/bin/gdb.exe",
+            "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
             
             "setupCommands": [
                 {
